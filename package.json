@@ -11,6 +11,7 @@
     "prettier": "^2.6.2"
   },
   "dependencies": {
-    "basiclightbox": "^5.0.4"
+    "basiclightbox": "^5.0.4",
+    "simplelightbox": "^2.10.3"
   }
 }
