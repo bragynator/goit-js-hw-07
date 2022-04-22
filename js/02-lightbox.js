@@ -24,4 +24,4 @@ let gallery = new SimpleLightbox('.gallery a', {
 	captionDelay: 250,
 });
 
-gallery.on();
+gallery.on('show.simplelightbox');
